@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Cl0wnFiesta.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/Cl0wnFiesta.github.io/static/js/main.f90ab4ed.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Cl0wnFiesta.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/Cl0wnFiesta.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Cl0wnFiesta.github.io/index.html",
-    "main.073c9b0a.css.map": "/Cl0wnFiesta.github.io/static/css/main.073c9b0a.css.map",
-    "main.f90ab4ed.js.map": "/Cl0wnFiesta.github.io/static/js/main.f90ab4ed.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Cl0wnFiesta.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Cl0wnFiesta/pages.git/static/css/main.073c9b0a.css",
+    "main.js": "/Cl0wnFiesta/pages.git/static/js/main.c066646d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Cl0wnFiesta/pages.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Cl0wnFiesta/pages.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Cl0wnFiesta/pages.git/index.html",
+    "main.073c9b0a.css.map": "/Cl0wnFiesta/pages.git/static/css/main.073c9b0a.css.map",
+    "main.c066646d.js.map": "/Cl0wnFiesta/pages.git/static/js/main.c066646d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Cl0wnFiesta/pages.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f90ab4ed.js"
+    "static/js/main.c066646d.js"
   ]
 }
